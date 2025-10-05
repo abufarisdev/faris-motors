@@ -20,11 +20,10 @@ export default function HomePage() {
                 <span className="text-sm font-medium">Trusted Since 1998</span>
               </div>
               <h1 className="mb-6 text-4xl font-bold leading-tight text-balance md:text-5xl lg:text-6xl">
-                India's Leading Wholesale Supplier of Truck Parts
+               Wholesale Supplier of Truck Parts
               </h1>
               <p className="mb-8 text-lg text-primary-foreground/90 leading-relaxed text-pretty md:text-xl">
-                Specializing in body and chassis parts for Tata vehicles. Quality parts, competitive prices, and
-                reliable service for truck owners and garages across India.
+                Specializing in body and chassis parts for Tata vehicles. Quality parts and Competitive prices
               </p>
               <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
                 <Link href="/products">
@@ -107,7 +106,7 @@ export default function HomePage() {
               </Card>
 
               <Card>
-                <CardContent className="flex flex-col items-center p-6 text-center">
+                <CardContent className="flex flex-col items-center p-6 text-center ">
                   <div className="mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-primary/10">
                     <Wrench className="h-7 w-7 text-primary" />
                   </div>
@@ -139,7 +138,7 @@ export default function HomePage() {
             <div className="mb-12 text-center">
               <h2 className="mb-4 text-3xl font-bold text-foreground md:text-4xl">Product Categories</h2>
               <p className="mx-auto max-w-2xl text-muted-foreground leading-relaxed">
-                Browse our comprehensive range of truck parts and components
+                Browse our comprehensive range of truck chasis and body parts
               </p>
             </div>
 
