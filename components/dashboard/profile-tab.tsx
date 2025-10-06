@@ -72,7 +72,7 @@ export function ProfileTab({ user }: ProfileTabProps) {
               </div>
 
               <div className="space-y-2">
-                <Label htmlFor="profile-phone">Phone</Label>
+                <Label htmlFor="profile-phone">Mobile Number</Label>
                 <Input
                   id="profile-phone"
                   type="tel"
